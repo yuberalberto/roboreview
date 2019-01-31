@@ -1,15 +1,15 @@
 {
   "main.css": "/roboreview/static/css/main.dc5246ab.chunk.css",
-  "main.js": "/roboreview/static/js/main.5102fc52.chunk.js",
-  "main.js.map": "/roboreview/static/js/main.5102fc52.chunk.js.map",
+  "main.js": "/roboreview/static/js/main.5cf90bcb.chunk.js",
+  "main.js.map": "/roboreview/static/js/main.5cf90bcb.chunk.js.map",
   "static/css/1.dbcd085c.chunk.css": "/roboreview/static/css/1.dbcd085c.chunk.css",
   "static/js/1.81d24b5a.chunk.js": "/roboreview/static/js/1.81d24b5a.chunk.js",
   "static/js/1.81d24b5a.chunk.js.map": "/roboreview/static/js/1.81d24b5a.chunk.js.map",
   "runtime~main.js": "/roboreview/static/js/runtime~main.148623bf.js",
   "runtime~main.js.map": "/roboreview/static/js/runtime~main.148623bf.js.map",
-  "static/css/main.dc5246ab.chunk.css.map": "/roboreview/static/css/main.dc5246ab.chunk.css.map",
   "static/css/1.dbcd085c.chunk.css.map": "/roboreview/static/css/1.dbcd085c.chunk.css.map",
+  "static/css/main.dc5246ab.chunk.css.map": "/roboreview/static/css/main.dc5246ab.chunk.css.map",
   "index.html": "/roboreview/index.html",
-  "precache-manifest.ec98c8881d8e3871875b4b4d4503d4ca.js": "/roboreview/precache-manifest.ec98c8881d8e3871875b4b4d4503d4ca.js",
+  "precache-manifest.e47071449f6f17daa6122b2e2dfb6a51.js": "/roboreview/precache-manifest.e47071449f6f17daa6122b2e2dfb6a51.js",
   "service-worker.js": "/roboreview/service-worker.js"
 }
